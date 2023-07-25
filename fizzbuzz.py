@@ -11,5 +11,12 @@ for i in range(1,101):
     print("Buzz")
   #if not divisible by either of them print the i
   else:
-    print(i) 
+    print(i)
+
+  
+
+    
+
+    
+
 
